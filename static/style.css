@@ -1,0 +1,51 @@
+body {
+    font-family: 'Georgia', sans-serif;
+    background-image: linear-gradient(to bottom right, rgba(6, 125, 12, 0.678), black, rgba(6, 50, 125, 0.678));
+    color: #f4f4f4;
+    text-align: center;
+    min-height: 84vh;
+    border: 2px;
+    padding-top: 100px;
+}
+
+h1, h2 {
+    color: #007BFF;
+    text-align: center;
+}
+
+p {
+    line-height: 1.6;
+    border: 50px ;
+    margin: 80px;
+    text-align: left;
+}
+
+#text{
+    text-align: center;
+}
+
+form{
+    line-height: 3;
+}
+
+button {
+    background-color: #007BFF;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+    display: block;
+    margin: 0 auto;
+    margin-top: 5px;
+    align-items: center;
+}
+
+button:hover {
+    background-color: #00b342;
+}
+
+a {
+    text-decoration: none;
+}
